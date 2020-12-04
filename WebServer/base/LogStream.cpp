@@ -1,4 +1,3 @@
-
 #include "LogStream.h"
 #include <assert.h>
 #include <stdint.h>

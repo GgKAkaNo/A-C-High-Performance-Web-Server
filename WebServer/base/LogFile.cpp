@@ -1,4 +1,3 @@
-
 #include "LogFile.h"
 #include <assert.h>
 #include <stdio.h>

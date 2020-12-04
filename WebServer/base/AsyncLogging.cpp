@@ -1,4 +1,3 @@
-
 #include "AsyncLogging.h"
 #include <assert.h>
 #include <stdio.h>
